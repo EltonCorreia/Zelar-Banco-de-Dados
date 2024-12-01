@@ -1,4 +1,4 @@
-## TCC - Projeto Zelar - SQL 🖥️
+## TCC - Projeto Zelar - SQL 🛢️
 ### Proposta do projeto:
 Nossa proposta para o projeto de conclusão de curso é o desenvolvimento de um sistema de fidelidade digital para fortalecer o relacionamento pós-venda entre micro empreendedores e clientes.
 
